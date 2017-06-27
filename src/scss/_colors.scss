@@ -1,0 +1,9 @@
+$labYellow: rgb(247, 182, 23);
+$labGray: rgb(43, 43, 43);
+$labWhite: rgb(255, 255, 255);
+$labBlack: rgb(0, 0, 0);
+
+.header-colors {
+  background: $labYellow;
+  color: $labWhite;
+}
